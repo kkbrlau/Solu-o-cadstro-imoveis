@@ -34,7 +34,7 @@ function App() {
         <Cadastrar2 />
       </div>
 
-      <div className="w-full h-48 bg-newpurple absolute bottom-0 rounded-t-lg flex justify-center items-center mt-10 ">
+      <div className="w-full h-40 bg-newpurple absolute bottom-0 rounded-t-lg flex justify-center items-center mt-10 ">
         <FaRegBuilding className="text-white w-8 h-8 mb-16 mr-16" />
         <FaRegCalendarAlt className="text-text w-8 h-8 mb-16 mr-20" />
         <CiViewTable className="text-text w-8 h-8 mb-16 mr-16" />
