@@ -95,7 +95,7 @@ function CadastroImovel() {
           <input
             type="text"
             placeholder="Complemento"
-            className="border border-borders px-2 py-2 ml-6 w-30"
+            className="border border-borders px-2 py-2 ml-6 w-24"
             value={complement}
             onChange={(event) => setComplement(event.target.value)}
           />
@@ -111,7 +111,7 @@ function CadastroImovel() {
           />
 
           <select
-            className="border border-borders px-2 py-2 ml-6 w-20"
+            className="border border-borders px-2 py-2 ml-6 w-24"
             value={uf}
             placeholder="UF"
             onChange={(event) => setUF(event.target.value)}
